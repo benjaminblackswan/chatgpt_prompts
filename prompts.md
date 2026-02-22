@@ -2,4 +2,15 @@ Please give a 100 word paragraph explanation for the correct option(s) and a 60 
 start with green tick or red cross and option statement.
 in the same order the option is given in the question. 
 Only use bold for option statement.
-add question requirements at the beginning.
+Add question requirements at the beginning in dot point format.
+
+---
+
+Please give a 50 word paragraph explanation for the correct option(s) and a 30 word paragraph explanation for incorrect options.
+start with green tick or red cross and option statement.
+in the same order the option is given in the question. 
+Only use bold for option statement.
+Add question requirements at the beginning in dot point format.
+
+
+
